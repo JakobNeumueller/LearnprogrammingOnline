@@ -39,3 +39,5 @@ The courses we want to implement
 Other stuff:
 Some things are only optional of course we will try to do theme but only if we have enough time. 
 At the beginning there will be around 
+
+ajajjajajaj
